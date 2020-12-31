@@ -1,4 +1,4 @@
 # active_particles_in_active-environments
 
-1. The code is used to simulate Active (Brownian) Particles in Active Environments
+1. The code is used to simulate Active (Brownian) Particles in Active Environments.
 2. Research Absract: Brownian motion is a traditional way to describe particles’ random walk in fluid. The particle’s random movement usually achieves equilibrium in steady state over time. Here, we model active Brownian particles to mimic bacteria’s motion in water. In addition, we impose potential energy on the particle (both active and not) and see how it would affect the particle’s motion in long time. As expected, the active Brownian particle would reach non-equilibrium with constant flux in steady state over time when the potential restricts the particle’s movement within some asymmetric channel. Beyond that, we simulate potential which constructs moving and oscillating boundaries to observe how the (active) particles would react.
